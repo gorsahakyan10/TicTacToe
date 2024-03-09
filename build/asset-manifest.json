@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aafc6004.css",
+    "main.js": "/static/js/main.fc2fa15d.js",
+    "index.html": "/index.html",
+    "main.aafc6004.css.map": "/static/css/main.aafc6004.css.map",
+    "main.fc2fa15d.js.map": "/static/js/main.fc2fa15d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafc6004.css",
+    "static/js/main.fc2fa15d.js"
+  ]
+}
